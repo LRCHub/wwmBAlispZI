@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "絵空",
+  "base_artist": "マルシィ",
+  "createdAt": "2026-01-01T09:54:02.517992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絵空",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_絵空_マルシィ.txt"
+    }
+  ]
+}
